@@ -1,4 +1,4 @@
-# fastapi-mysql-docker
+# Manpower Database
 
 - FastAPI
 - MySQL
